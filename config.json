@@ -1,0 +1,16 @@
+{
+  "dir": "./",
+  "interval": 1.0,
+  "startTime": 0,
+  "endTime": 3600,
+  "seed": 42,
+  "roadnetFile": "data/roadnet.json",
+  "flowFile": "data/flow.json",
+  "rlTrafficLight": true,
+  "saveReplay": true,
+  "replayFile": "replay.txt",
+  "replayLogFile": "replay_log.txt",  
+  "logFile": "simulation.log",
+  "roadnetLogFile": "roadnet_log.txt",
+  "threadNum": 4
+}
